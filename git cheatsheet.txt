@@ -1,0 +1,16 @@
+GIT Cheatsheet
+
+#initialize git
+git init 
+
+#remote add orgini to connect tremotelly to github/lab
+git remote add origin git@github.com:jlangulo/datacamp.git
+
+#git add all files
+git add .
+
+#commit before push
+ git commit -m ""
+
+#push all files to gitlab
+git push origin master
